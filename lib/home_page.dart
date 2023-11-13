@@ -12,7 +12,7 @@ class HomePage extends StatefulWidget {
   late WikiFirebaseService wikiFirebaseService;
 
   HomePage({super.key}){
-    wikiFirebaseService= WikiFirebaseService();
+     wikiFirebaseService= WikiFirebaseService();
   }
 
   @override
